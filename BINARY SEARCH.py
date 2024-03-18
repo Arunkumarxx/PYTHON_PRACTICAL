@@ -1,4 +1,6 @@
-#  binary search.
+
+
+https://gist.github.com/Arunkumarxx/75b437c2ef9d43942f7223976a8521a5#  binary search.
 
 # Returns index of x in arr if present, else -1
 def binary_search(arr, low, high, x):
